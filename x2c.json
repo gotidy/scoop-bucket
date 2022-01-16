@@ -1,0 +1,22 @@
+{
+    "version": "0.1.1",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/gotidy/x2c/releases/download/v0.1.1/x2c_0.1.1_Windows_i386.tar.gz",
+            "bin": [
+                "x2c.exe"
+            ],
+            "hash": "809c2e73b4ea8446ddbecd07aa598ad4f935461b81482f1c3bc7f33873362ba9"
+        },
+        "64bit": {
+            "url": "https://github.com/gotidy/x2c/releases/download/v0.1.1/x2c_0.1.1_Windows_x86_64.tar.gz",
+            "bin": [
+                "x2c.exe"
+            ],
+            "hash": "45031ec40b771e726a60d3e9a8a0354fcf25b4d8cd104beada178e166a67c9ef"
+        }
+    },
+    "homepage": "https://github.com/gotidy/x2c",
+    "license": "Apache License 2.0",
+    "description": "Convert XLSX file to CSV"
+}
